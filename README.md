@@ -230,7 +230,6 @@ Deplying each piece is very versatile and can be done numerous ways, and explora
 **Server**
 - [Cloudflare Worker](https://gist.github.com/stevedylandev/4aa1fc569bcba46b7169193c0498d0b3)
 - [Bun](https://hono.dev/docs/getting-started/bun)
-- [Node.js](https://hono.dev/docs/getting-started/nodejs)
 
 ## Type Sharing
 
@@ -240,7 +239,6 @@ Types are automatically shared between the client and server thanks to the share
 import { ApiResponse } from '@shared/types';
 ```
 
-## Learn More
 
 - [Bun Documentation](https://bun.sh/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
